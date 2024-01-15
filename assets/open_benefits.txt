@@ -1,0 +1,22 @@
+open benefits
+
+the entire community wins!
+by being free and open-source, this means that you can contribute new demo songs, improvements, fixes and a lot more.
+
+learn how Furnace works!
+look at the inner workings of the Furnace engine. discover the magic of its GUI code.
+
+trust the software you use!
+you can inspect/audit the entire code and prove it is free of malware.
+
+make your own Furnace!
+you can adapt it to your specific use case. some examples are retro game development and interfacing with hardware.
+
+make it run everywhere!
+while the official releases target Windows, macOS and Linux (x86_64), Furnace's code is portable and therefore you're able to get it working under other operating systems with little to no modifications.
+for example: Unix/Unix-like (BSD, AIX, Solaris, QNX, etc.), Android, iOS, OS/2, Haiku, AmigaOS and many others!
+
+if you're not sure, what are you waiting for?
+Furnace will be free (as in freedom, and as in free beer) forever. it's a project made by many expert volunteers in their free times.
+
+I would like to thank everyone for your contributions to this project!
