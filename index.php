@@ -285,7 +285,7 @@
             <li><b>Arch Linux</b>: install the <code>furnace</code> <a href="https://archlinux.org/packages/extra/x86_64/furnace/">package</a>.</li>
             <li><b>FreeBSD (ports)</b>: <a href="https://www.freshports.org/audio/furnace/">see this page.</a></li>
             <li><b>Flatpak</b>: <a href="https://flathub.org/apps/org.tildearrow.furnace">Furnace is available as a Flatpak.</a></li>
-            <li><b>Void Linux</b>: install the <code>furnace</code> <a href="https://github.com/void-linux/void-packages/tree/master/srcpkgs/furnace">oackage</a>.</li>
+            <li><b>Void Linux</b>: install the <code>furnace</code> <a href="https://github.com/void-linux/void-packages/tree/master/srcpkgs/furnace">package</a>.</li>
           <!--
             <li><b>Haiku (ports)</b></li>
             <li><b>Nix</b></li>
