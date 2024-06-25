@@ -220,38 +220,38 @@
       <p style="text-align: center;">ready? select your operating system.</p>
       <div class="osbuttons">
         <div class="osbutton">
-          <a href="https://github.com/tildearrow/furnace/releases/download/v0.6.4/furnace-0.6.4-win64.zip"><img class="furbutton" src="/storage/images/win.png" alt="Windows"/></a>
+          <a href="https://github.com/tildearrow/furnace/releases/download/v0.6.5/furnace-0.6.5-win64.zip"><img class="furbutton" src="/storage/images/win.png" alt="Windows"/></a>
           <p>Windows (64-bit)</p>
         </div>
         <div class="osbutton">
-          <a href="https://github.com/tildearrow/furnace/releases/download/v0.6.4/furnace-0.6.4-mac-Intel.dmg"><img class="furbutton" src="/storage/images/mac.png" alt="macOS"/></a>
+          <a href="https://github.com/tildearrow/furnace/releases/download/v0.6.5/furnace-0.6.5-mac-Intel.dmg"><img class="furbutton" src="/storage/images/mac.png" alt="macOS"/></a>
           <p>macOS (Intel)</p>
         </div>
         <div class="osbutton">
-          <a href="https://github.com/tildearrow/furnace/releases/download/v0.6.4/furnace-0.6.4-mac-arm64.dmg"><img class="furbutton" src="/storage/images/mac.png" alt="macOS"/></a>
+          <a href="https://github.com/tildearrow/furnace/releases/download/v0.6.5/furnace-0.6.5-mac-arm64.dmg"><img class="furbutton" src="/storage/images/mac.png" alt="macOS"/></a>
           <p>macOS (Apple silicon)</p>
         </div>
         <div class="osbutton">
-          <a href="https://github.com/tildearrow/furnace/releases/download/v0.6.4/furnace-0.6.4-linux-x86_64.tar.gz"><img class="furbutton" src="/storage/images/linux.png" alt="Linux"/></a>
+          <a href="https://github.com/tildearrow/furnace/releases/download/v0.6.5/furnace-0.6.5-linux-x86_64.tar.gz"><img class="furbutton" src="/storage/images/linux.png" alt="Linux"/></a>
           <p>Linux (x86_64)</p>
         </div>
       </div>
-      <p style="text-align: center; color: #aaa;">latest version: 0.6.4 (2024-06-18)<br/><a href="https://github.com/tildearrow/furnace/releases/tag/v0.6.4">click for release notes (GitHub)</a></p>
+      <p style="text-align: center; color: #aaa;">latest version: 0.6.5 (2024-06-18)<br/><a href="https://github.com/tildearrow/furnace/releases/tag/v0.6.5">click for release notes (GitHub)</a></p>
       <div class="furspace">
 	<div class="fursub">
           <input type="checkbox" id="altDownload" name="alternate downloads"/>
           <label for="altDownload">alternate downloads</label>
           <div class="furhide">
           <ul>
-            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.4/furnace-0.6.4-win64.zip">Windows (64-bit)</a></li>
-            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.4/furnace-0.6.4-win32.zip">Windows (32-bit; Vista or later)</a></li>
-            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.4/furnace-0.6.4-win32-XP-ONLY.zip">Windows (32-bit; XP-only)</a></li>
-            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.4/furnace-0.6.4-mac-Intel.dmg">macOS (64-bit Intel)</a></li>
-            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.4/furnace-0.6.4-mac-arm64.dmg">macOS (Apple silicon)</a></li>
-            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.4/furnace-0.6.4-linux-x86_64.tar.gz">Linux (x86_64; tar)</a></li>
-            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.4/Furnace-0.6.4-x86_64.AppImage">Linux (x86_64; AppImage)</a></li>
-            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.4/furnace-0.6.4-linux-armhf.tar.gz">Linux (32-bit ARM)</a></li>
-            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.4/furnace-0.6.4-linux-aarch64.tar.gz">Linux (AArch64)</a></li>
+            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.5/furnace-0.6.5-win64.zip">Windows (64-bit)</a></li>
+            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.5/furnace-0.6.5-win32.zip">Windows (32-bit; Vista or later)</a></li>
+            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.5/furnace-0.6.5-win32-XP-ONLY.zip">Windows (32-bit; XP-only)</a></li>
+            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.5/furnace-0.6.5-mac-Intel.dmg">macOS (64-bit Intel)</a></li>
+            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.5/furnace-0.6.5-mac-arm64.dmg">macOS (Apple silicon)</a></li>
+            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.5/furnace-0.6.5-linux-x86_64.tar.gz">Linux (x86_64; tar)</a></li>
+            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.5/Furnace-0.6.5-x86_64.AppImage">Linux (x86_64; AppImage)</a></li>
+            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.5/furnace-0.6.5-linux-armhf.tar.gz">Linux (32-bit ARM)</a></li>
+            <li><a href="https://github.com/tildearrow/furnace/releases/download/v0.6.5/furnace-0.6.5-linux-aarch64.tar.gz">Linux (AArch64)</a></li>
           </ul>
           </div>
         </div>
