@@ -300,7 +300,7 @@
               <tr>
                 <td>operating system</td>
                 <td>Windows XP; OS X 10.9; or Linux (from 2016 onwards)</td>
-                <td>Windows Vista or later; macOS 10.15 or later; or Linux (recent distro)</td>
+                <td>Windows Vista (with Service Pack 2) or later; macOS 10.15 or later; or Linux (recent distro)</td>
               </tr>
               <tr>
                 <td>processor</td>
@@ -319,8 +319,8 @@
               </tr>
               <tr>
                 <td>graphics</td>
-                <td>OpenGL 3.0, OpenGL ES 2.0 or DirectX 9</td>
-                <td>OpenGL 3.1, OpenGL ES 2.0 or DirectX 11</td>
+                <td>OpenGL 1.1, OpenGL ES 2.0 or DirectX 9</td>
+                <td>OpenGL 3.0, OpenGL ES 2.0 or DirectX 11</td>
               </tr>
               <tr>
                 <td>sound</td>
